@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 761e7aa5ea84f8b4c98a3f441a8676a3, type: 3}
+  m_Name: EnemyData
+  m_EditorClassIdentifier: 
+  maxHealth: 1000
+  currentHealth: 100
+  maxDefence: 10
+  currentDefence: 10
+  repelRatio: 0.3
+  uniqueSkillEnergy: 1
+  rockWeapon: {fileID: 0}
